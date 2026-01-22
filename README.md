@@ -1,3 +1,7 @@
+
+![Uploading ChatGPT Image 22 ene 2026, 07_06_50 p.m..png…]()
+
+
 <div align="center">
 
 <p align="left">
