@@ -1,6 +1,5 @@
 
-![Uploading ChatGPT Image 22 ene 2026, 07_06_50 p.m..png…]()
-
+<img width="1536" height="1024" alt="cover" src="https://github.com/user-attachments/assets/cf0e4e22-87c4-42c3-a4c3-0d13b72b2d6c" />
 
 <div align="center">
 
