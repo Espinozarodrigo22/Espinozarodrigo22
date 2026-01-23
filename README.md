@@ -11,7 +11,7 @@ src="https://github.com/user-attachments/assets/fbd77e61-b84f-4f78-88c0-b8ba27c2
 
 ---
 
-## 👋 About Me
+## 👋 Sobre mi
 
 Hola, soy **Rodrigo Espinoza**, **Data Analyst** en formación con fuerte foco en **calidad de datos, análisis exploratorio (EDA)** y **visualización**.
 
