@@ -13,27 +13,28 @@ src="https://github.com/user-attachments/assets/fbd77e61-b84f-4f78-88c0-b8ba27c2
 
 ## 👋 Sobre mi
 
-Hola, soy Rodrigo Espinoza
+# Hola, soy Rodrigo Espinoza
 
-Profesional con experiencia en seguridad y análisis de riesgos operativos, con formación en Data Analytics y actualmente orientando mi desarrollo profesional hacia la Ciberseguridad.
+Profesional con experiencia en **Seguridad** y **Análisis de Riesgos Operativos**, con formación en **Data Analytics** y actualmente orientando mi desarrollo profesional hacia la **Ciberseguridad**.
 
-Mi experiencia me permitió desarrollar una fuerte capacidad de análisis, investigación, identificación de riesgos y toma de decisiones basada en información. A esto sumé conocimientos en Python, SQL, Power BI, estadística y bases de datos para transformar datos en información útil.
+Mi experiencia me permitió desarrollar una fuerte capacidad de **análisis**, **investigación**, **identificación de riesgos** y **toma de decisiones basada en información**. A esto sumé conocimientos en **Python**, **SQL**, **Power BI**, **Estadística** y **Bases de Datos** para transformar datos en información útil.
 
-Actualmente continúo ampliando mi perfil con estudios en Ciberseguridad, especialmente en Security Operations (SOC), análisis de amenazas, gestión de incidentes y automatización con Python.
+Actualmente continúo ampliando mi perfil con estudios en **Ciberseguridad**, especialmente en **Security Operations (SOC)**, **análisis de amenazas**, **gestión de incidentes** y **automatización con Python**.
 
-Áreas de interés
-Análisis de Datos
-Ciberseguridad
-Security Operations (SOC)
-Python
-SQL
-Power BI
-Linux
-Automatización
-Gestión de Riesgos
+## Áreas de interés
 
-Mi objetivo es combinar el análisis de datos con la ciberseguridad para detectar riesgos, analizar eventos e impulsar decisiones basadas en evidencia.
+- **Data Analytics**
+- **Ciberseguridad**
+- **Security Operations (SOC)**
+- **Threat Intelligence**
+- **Python**
+- **SQL**
+- **Power BI**
+- **Linux**
+- **Automatización**
+- **Gestión de Riesgos**
 
+Mi objetivo es combinar el **Análisis de Datos** con la **Ciberseguridad** para detectar riesgos, analizar eventos e impulsar decisiones basadas en evidencia.
 ---
 
 ## 📫 Contacto
