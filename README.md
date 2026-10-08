@@ -118,14 +118,14 @@ Mi objetivo profesional es integrar mi experiencia en seguridad con mis conocimi
 
 ---
 
-## Formación académica y complementaria
+## 🎓 Formación académica y complementaria
 
-### Seguridad y Ciberseguridad
+### Ciberseguridad
 
-| Formación | Institución | Estado |
-|---|---|---|
-| Defensa de la Red | Cisco Networking Academy | En curso |
-| Fundamentos de la Ciberseguridad | Google | Realizado |
+| Formación | Institución |
+|---|---|
+| Defensa de la Red | Cisco Networking Academy |
+| Fundamentos de la Ciberseguridad | Google |
 
 ### Análisis de Datos y Bases de Datos
 
@@ -146,6 +146,7 @@ Mi objetivo profesional es integrar mi experiencia en seguridad con mis conocimi
 |---|---|
 | Programación Full Stack | Inclúyeme |
 | Desarrollo Web | Streambe |
+
 
 ---
 
