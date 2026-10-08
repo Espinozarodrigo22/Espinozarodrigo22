@@ -1,5 +1,5 @@
-<img width="2055" height="765" alt="ChatGPT Image 12 sept 2026, 06_42_27 p m" src="https://github.com/user-attachments/assets/2257f82b-dc32-41ff-9c85-ae6bd5908114" />
-<div align="center">
+<img width="938" height="274" alt="ChatGPT Image 12 sept 2026, 06_42_27 p m" src="https://github.com/user-attachments/assets/06f59eb2-2f4a-417c-abc1-25806d669b48" />
+
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Pensar+en+datos+antes+que+en+títulos.;Analizar+primero.;Visualizar+después.;Decidir+mejor.&width=700&height=45" />
