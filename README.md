@@ -1,6 +1,4 @@
-<img width="1280" height="400" alt="Rodrigo Espinoza - Data Analyst Cover" 
-src="https://github.com/user-attachments/assets/fbd77e61-b84f-4f78-88c0-b8ba27c256f3" />
-
+<img width="2055" height="765" alt="ChatGPT Image 12 sept 2026, 06_42_27 p m" src="https://github.com/user-attachments/assets/2257f82b-dc32-41ff-9c85-ae6bd5908114" />
 <div align="center">
 
 <p align="left">
